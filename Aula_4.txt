@@ -1,0 +1,494 @@
+    1  ls
+    2  claer
+    3  git confit --globaluser.name "jorge gomez"
+    4  git config --globa user.name "jorge gomez"
+    5  git config --global user.email 'gomezc.jorgel@gmail.com
+    6  '
+    7   git config --global user.email 'gomezc.jorgel@gmail.com
+    8   git config --global user.email 'gomezc.jorgel@gmail.com'
+    9  '
+   10  exit
+   11  git config --global user.name 'jorge gomez'
+   12  git config --global user.email 'gomezc.jorgel@gmail.com'
+   13  git config user.name
+   14  cd desktop
+   15  mkdirc
+   16  mkdir curso_git
+   17  cd curso_git
+   18  git config user.name
+   19  git init
+   20  git status
+   21  echo '#aprendendo usar git' > raedme md
+   22  git status 
+   23  git add raedme.md
+   24  git add readme.md
+   25  git status
+   26  git add readme.md
+   27  git add .
+   28  echo '#aprendendo usar o git'> readme.md
+   29  git add readme
+   30  clear
+   31  aaqgit config --global user.name 'jorge gomez'
+   32  clear
+   33  git config --global user.name 'jorge gomez'
+   34  git config --globa user.email 'gomezc.jorgel@gmail.com
+   35  '
+   36  git config --global user.email 'gomezc.jorgel@gmail.com'
+   37  git config user.name
+   38  cd desktop
+   39  git config user.name
+   40  git init
+   41  git status
+   42  git rm --cached <'readme.md'>
+   43  git add readme.md
+   44  git status
+   45  git commit -m 'commitinicial'
+   46  git status
+   47  echo '##aula 1'>> readme.md
+   48  git status
+   49  git add .
+   50  echo 'jorge gomez' > partisipante.txt
+   51  git status
+   52  git dd .
+   53  git status
+   54  ssh-keygen -t rsa -b 4096 -c gomezc.jorgel@gmail.com
+   55  ssh-keygen -t rsa -b 4096 -c 'gomezc.jorgel@gmail.com'
+   56  git log
+   57  clear
+   58  cd desktop
+   59  cd git_curso
+   60  ssh-keyen -b rsa 4096 -c 'gomezc.jorgel@gmail.com'
+   61  clear
+   62  ssh-keygen -t rsa -b 4096 -c 'gomezc.jorgel@gmail.com'
+   63  ls ~/.ssh
+   64  cat ~/.ssh/id_rsa.pub
+   65  clear
+   66  ssh-keygen -t rsa -b 4096 -c "gomezc.jorgel@gmail.com"
+   67  ls ~/.ssh
+   68  -c
+   69  clear
+   70  ssh-keygen -t rsa -b 4096 -c 'gomezc.jorgel@gmail.com'
+   71  clear
+   72  git log
+   73  git log prettyoneline
+   74  git log --prettyoneline
+   75  git log pretty=oneline
+   76  git log --pretty=oneline
+   77  git log stat
+   78  git log --stat
+   79  git log -p
+   80  git log -p -2
+   81  git log --pretty=oneline -2
+   82  git log --pretty=oneline -4
+   83  git since=2 minute
+   84  git log --author=jorge gomez
+   85  git log --author="jorge gomez"
+   86  git checkout HEAD~
+   87  git checkout 'HEAD~'
+   88  touch tete
+   89  git add teste
+   90  git add tete
+   91  git status
+   92  git commit -m 'commit de tete'
+   93  log 
+   94  git log
+   95  git reset --soft HEAD~
+   96  git log
+   97  git status
+   98  git reset --hard
+   99  git reset --hard HEAD~
+  100  git log 
+  101  git log --pretty=oneline
+  102  clear
+  103  git log
+  104  cd desktop
+  105  cd git_curso
+  106  git log
+  107  ls
+  108  ls -a
+  109  pwd
+  110  cd
+  111  cd desktop
+  112  clear
+  113  cd
+  114  clear
+  115  ls
+  116  ls -a
+  117  ls ..
+  118  pwd
+  119  cd
+  120  cd .
+  121  cd desktop
+  122  pwd
+  123  cd ..
+  124  cd desktop
+  125  cd ~~
+  126  mkdir desktop
+  127  mkdir comandos
+  128  ls
+  129  cd comandos 
+  130  mkdir pasta nova
+  131  ls
+  132  mkdir 'pasta nova'
+  133  ls
+  134  mkdir -p new/old
+  135  ls
+  136  ls new
+  137  rm -r nova pasta 
+  138  rm -r new
+  139  ls
+  140  mv 'pasta nova' pasta_nova
+  141  ls
+  142  mkdir new
+  143  mv new pasta_nova
+  144  ls
+  145  ls pasta-nova
+  146  ls pasta_nova
+  147  cd..
+  148  tuoch arqivo.txt
+  149  cd ..
+  150  cd comandos 
+  151  touch arquivo.txt
+  152  ls
+  153  cp arquivo.txt pasta_nova
+  154  ls
+  155  ls pasta_nova
+  156  echo 'mensagem'
+  157  echo 'mensagem' > comando.txt
+  158  cat comando.txt
+  159  cat
+  160  cat > comando.txt
+  161  cat >> comandos.txt
+  162  cat > comando.txt
+  163  ls
+  164  cat
+  165  cat > comando.txt
+  166  cat comando.txt
+  167  cat > comando.txt
+  168  cat >> comando.txt
+  169  cat comando.txt
+  170  clear
+  171  history
+  172  history 5
+  173  history 6
+  174  history > historico.txt
+  175  cat istorico.txt
+  176  cat > historico.txt
+  177  history 
+  178  history 6
+  179  history > historico.txt
+  180  cat historico.txt
+  181  git config --global user.name 'jorge gomez'
+  182  git config --global user.email 'jorgel.gomezc@gmail.com'
+  183  git config user.name
+  184  cd desktop
+  185  cd..
+  186  cd
+  187  git config --global user.name 'jorge gomez'
+  188  git config --global user.email 'jorgel.gomezc@gmail.com'
+  189  git config user.name
+  190  cd desktop
+  191  mkdir curso_git
+  192  mkdir Curso_Git
+  193  mkdir Curso-Git
+  194  git config user.name
+  195  git init
+  196  git status
+  197  echo '#aprendendo usar o git' readme.md
+  198  echo '#aprendendo usar o git' > readme.md
+  199  git status
+  200  git add raedme.md
+  201  git add readme.md
+  202  git status
+  203  git commit -m 'commit inicial'
+  204  girt status
+  205  git status
+  206  echo '##aula 1' >> readme.md
+  207  git status
+  208  echo 'jorge gomez' > participante.txt
+  209  git status
+  210  git add.
+  211  git staus
+  212  git status
+  213  git add.
+  214  git status
+  215  git add readme.txt
+  216  git add 'readme.txt'
+  217  git add > 'readme.txt'
+  218  git add.
+  219  git log
+  220  clear
+  221  ls
+  222  ls -a
+  223  pwd
+  224  cd desktop
+  225  mkdir pasta
+  226  ls
+  227  cdcomando.txt
+  228  cd comando
+  229  ls
+  230  ls -a
+  231  cd desktop
+  232  cd ..
+  233  cd comando
+  234  cd desktop
+  235  ls
+  236  pwd
+  237  rest
+  238  git reset
+  239  reset
+  240  cd..
+  241  cd
+  242  clear
+  243  reset
+  244  ls
+  245  ls -a
+  246  pdw
+  247  pwd
+  248  cd
+  249  ls
+  250  cd dsktop
+  251  cddesktop
+  252  cd desktop
+  253  ls
+  254  pwd
+  255  cd..
+  256  cd ..
+  257  cd desktop
+  258  cd ~
+  259  cd desktop
+  260  mkdir comandos
+  261  ls
+  262  cd comandos 
+  263  ls
+  264  mkdir pasta nova
+  265  ls
+  266  mkdir 'pasta nova'
+  267  ls
+  268  ls 
+  269  mkdir new/old
+  270  ls new
+  271  mkdir -p new/old
+  272  ls 
+  273  ls new
+  274  rm -r nova 
+  275  ls
+  276  rm -r pasta
+  277  ls
+  278  mv 'pasta nova' pasta_nova 
+  279  ls
+  280  mv new pasta_nova
+  281  ls 
+  282  ls pasta_nova 
+  283  touch arquivo.txt
+  284  cp arquivo.txt pasta_nova 
+  285  ls
+  286  cd..
+  287  cd ..
+  288  cd ~
+  289  ls
+  290  dc dektop
+  291  cd desktop
+  292  dc comandos 
+  293  ls
+  294  cd comandos 
+  295  ls
+  296  cd pasta_nova 
+  297  ls 
+  298  pwd
+  299  cd ..
+  300  cd pasta_nova 
+  301  ls pasta_nova
+  302  ls
+  303  cat
+  304  ls
+  305  cat > pasta_nova 
+  306  history
+  307  cd~
+  308  cd ~
+  309  git config --global user.name "jorge gomez"
+  310  git config --global user.email "gomezc.jorgel@gmail.com"
+  311  git config user.name
+  312  cd desktop
+  313  mkdir curso_git 
+  314  git user.name 
+  315  cd curso-git
+  316  cd curso_git 
+  317  git user.name 
+  318  git config user.name
+  319  git init
+  320  git status
+  321  echo '#aprendendo usar o git' > readme.txt
+  322  git status 
+  323  git add readme.txt
+  324  git status 
+  325  git commti -m 'commit inicial'
+  326  git commit -m 'commit inicial'
+  327  git status
+  328  echo '##Aula 1' >> readme.txt
+  329  git status 
+  330  echo 'jorge gomez' participante.md
+  331  git status
+  332  echo 'jorge gomez' > participante.md
+  333  git status 
+  334  git add .
+  335  git status
+  336  git restore --staged participante.md
+  337  git stautus
+  338  git status 
+  339  git add .
+  340  git status 
+  341  git restore --staged .
+  342  git status
+  343  git commit -am 'readme.txt'
+  344  git status
+  345  git commit -m 'adicionanparticipante.md
+  346  git restore --staged .
+  347  git status
+  348  git restore --staged .
+  349  git restore --staged .
+  350  git status
+  351  git add participant
+  352  git commit -m 'adicionado participante.md
+  353  git commit -m 'adicionado participante.md'
+  354  git status
+  355  git add 'participante.md'
+  356  git status 
+  357  git commit -m 'adicionado participante.md'
+  358  history > aula3.txt
+  359  git status 
+  360  git add .
+  361  git status 
+  362  git commit -m 'comandos da aula 3'
+  363  cd 
+  364  ~clear
+  365  clear
+  366  histori -c
+  367  clear
+  368  git log
+  369  cd desktop
+  370  cd curso_git 
+  371  git log 
+  372  git log --pretty=oneline
+  373  git log --stat
+  374  git log -p
+  375  git -p 2
+  376  git log --pretty=oneline -2
+  377  git log --pretty=oneline -4
+  378  git reset --soft HEAD
+  379  git log --pretty=oneline -4
+  380  GIT STATUS
+  381  git status
+  382  touch teste
+  383  git status
+  384  git add .
+  385  git status 
+  386  gitcommit -m 'commit teste'
+  387  git commit -m 'commit teste'
+  388  git log
+  389  git reset --soft HEAD~
+  390  git log 
+  391  git status 
+  392  git commit -m 'commit teste'
+  393  git log
+  394  git reset --hard 
+  395  git log
+  396  git log --pretty=oneline
+  397  git reset --soft HEAD~
+  398  git status
+  399  git log
+  400  git log --pretty=oneline
+  401  git checkout HEAD~2
+  402  git status 
+  403  git log
+  404  git log --pretty=oneline
+  405  git reset --soft HEAD~
+  406  git log
+  407  git log --pretty=oneline
+  408  git reset
+  409  git log
+  410  git reset --hard HEAD~
+  411  git log 
+  412  git status 
+  413  git add readme 
+  414  cd .. 
+  415  git status
+  416  cd comandos 
+  417  git log
+  418  cd ..
+  419  cd curso_git
+  420  ls
+  421  git log
+  422  git log --pretty=oneline
+  423  git reset --soft HEAD~2
+  424  git log
+  425  2+2
+  426  npm install -g @angular/cli
+  427  clear
+  428  npm install -g @angular/cli
+  429  npm install -g @angular/cli
+  430  cd..
+  431  git .
+  432  git ls
+  433  git ..
+  434  git log
+  435  git -a
+  436  git -c
+  437  clear
+  438  node -v
+  439  npm -v
+  440  npm install -g typescript
+  441  npm install -g @angular/cli
+  442  help
+  443  --help
+  444  gt cd..
+  445  git ls
+  446  git log
+  447  cd..
+  448  ng hepl
+  449  hepl
+  450  dir 
+  451  cd.
+  452  git cd
+  453  git add
+  454  git l -s
+  455  git l 
+  456  git -s
+  457  mkdir
+  458  mkdir --help
+  459  ng help
+  460  ls
+  461  git log
+  462  clear
+  463  history
+  464  git log --pretty=oneline
+  465  cd desktop
+  466  cd curso_git
+  467  ls
+  468  git status
+  469  ls .vscode
+  470  ls
+  471  ls -a
+  472  git status
+  473  echo '.vscode/' > .gitignore
+  474  git status
+  475  echo 'gitignore/' > .gitignore
+  476  git status
+  477  echo '.vscode/' > .gitignore
+  478  git status
+  479  git resete --stage gitignore
+  480  git status
+  481  touch pessoal.comf
+  482  git status
+  483  echo 'pessoal.conf/' >> .gitignore
+  484  git status
+  485  echo 'pessoal.conf' >> .gitignore
+  486  git status
+  487  echo 'pessoal.conf' >> .gitignore
+  488  git status
+  489  echo 'pessoal.comf' >> .gitignore
+  490  git status
+  491  git add .gitignore
+  492  git commit -m 'adicionar arquivos .gitignore'
+  493  git status
+  494  history > Aula_4.txt
